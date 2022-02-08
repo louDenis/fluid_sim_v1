@@ -1,0 +1,9 @@
+2 textures: une texture brush et une canva. interraction entre brush et aspérités de la canva.
+ajout fonction de séchage
+
+TODO
+4 couches de fluide
+améliorer simulation fluide (passage 2D->3D?)
+combiner avec code antoine de normal map
+changement couleur du fluide
+gerer melange couleurs
